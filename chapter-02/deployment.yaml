@@ -16,7 +16,7 @@ spec:
       containers:
       - command:
         - /app/sample-app
-        image: gitopsbook/sample-app:latest
+        image: m8ryx/sample-app:f6845f7
         name: sample-app
         ports:
         - containerPort: 8080
