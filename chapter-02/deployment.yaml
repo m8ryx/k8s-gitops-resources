@@ -16,7 +16,7 @@ spec:
       containers:
       - command:
         - /app/sample-app
-        image: m8ryx/sample-app:f6845f7
+        image: m8ryx/sample-app:7085847
         name: sample-app
         ports:
         - containerPort: 8080
